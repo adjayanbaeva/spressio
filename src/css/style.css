@@ -106,3 +106,12 @@ header {
     transform: translate(-50%, -50%);
 }
 
+.logo {
+    height: 100px;
+    width: auto;
+    float: left;
+}
+
+.main-nav {
+    
+}
